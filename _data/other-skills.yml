@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
-
-- name: Adobe Illustrator
-  percentage: 90
+- name: Linux Cybersecurity
+  percentage: 80
   color: success
+
+- name: Image Editing
+  percentage: 55
+  color: warning
+
+- name: Binary Exploitation
+  percentage: 80
+  color:
