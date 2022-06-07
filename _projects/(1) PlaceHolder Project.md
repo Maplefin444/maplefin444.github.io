@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: MCPT Game Jame - BunBun's Adventure
+tools: [godot]
+image: https://github.com/Maplefin444/MCPTGameJam/blob/main/Game/Assets/MainMenu.png?raw=true
+description: A game made for my school's game jam
+external_url: https://github.com/Maplefin444/MCPTGameJam
 ---
