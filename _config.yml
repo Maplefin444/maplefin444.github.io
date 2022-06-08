@@ -22,24 +22,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : James Huynh
+  name              : James Huynh (Maplefin)
   image             : https://cdn.discordapp.com/avatars/281912557231669249/9f94f39593de150e0ebf22ae53c61086.webp?size=4096&width=676&height=676
-  behance           : your_username
+#  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+#  email             : username@domain.com
+#  facebook          : your_username
+  github            : <aplefin444
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+#  linkedin          : your_username
+#  medium            : your_username
 # soundcloud        : your_username
-# spotify           : your_username
+ spotify           : Maplefin
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+#  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
