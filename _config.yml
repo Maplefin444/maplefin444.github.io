@@ -1,6 +1,7 @@
 ### Site Settings ###
 title               : James Huynh
-description         : "I do some things sometimes I guess :no_mouth:"
+description         : >-
+                      I do some things sometimes I guess
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : maplefin444/maplefin444.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -21,7 +22,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : James Huynh (Maplefin)
+  name              : James Huynh
   image             : https://cdn.discordapp.com/avatars/281912557231669249/9f94f39593de150e0ebf22ae53c61086.webp?size=4096&width=676&height=676
 #  behance           : your_username
 # dribbble          : your_username
@@ -34,7 +35,7 @@ author:
 #  linkedin          : your_username
 #  medium            : your_username
 # soundcloud        : your_username
- spotify           : Maplefin
+  spotify           : Maplefin
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
