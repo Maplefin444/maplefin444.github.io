@@ -1,7 +1,6 @@
 ### Site Settings ###
 title               : James Huynh
-description         : >-
-                      I do some things sometimes I guess :no_mouth:
+description         : "I do some things sometimes I guess :no_mouth:"
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : maplefin444/maplefin444.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
