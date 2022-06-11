@@ -1,7 +1,6 @@
 ---
 title: Being Returned
 tags: [philosophy, stoicism]
-style: fill
 color: dark
 description: Some thoughts about returns.
 ---
