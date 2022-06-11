@@ -6,7 +6,7 @@ description: Some thoughts about returns.
 ---
 
 I recently watched a video made by an amazing philosophical youtuber, Einzelgänger, in which he explores the idea of loss from a stoic perspective. The video can be found at:
-https://www.youtube.com/watch?v=yah-abKb96g&ab_channel=Einzelg%C3%A4nger
+[https://www.youtube.com/watch?v=yah-abKb96g&ab_channel=Einzelg%C3%A4nger](https://www.youtube.com/watch?v=yah-abKb96g&ab_channel=Einzelg%C3%A4nger)
 
 The video itself is straightforward, really only talking about our attachments to other people and things, and how it is better to think of our losses rather as returns. While watching the video, a question began to form. One that couldn't simply be answered with a simple google search.
 
