@@ -7,8 +7,10 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Heyo! I'm **{{ site.author.name }}** :wave:<br><br>
+I'm currently a high school student at William Lyon Mackenzie C.I., who has an interest in programming, along with electrical and computer engineering. In my free time, you'll find me working with Godot, working on my personal projects, reading, or doing CTFs. My CTF specialty is binary exploitation.<br><br>
+The programming languages I mostly work in are Perl, C, GDScript, and Java. I have some experience with Javascript, but not much. You may know me from many different clubs, including (but not limited to!): Cybersecurity Club, MCPT, Engineering Club, Project Metropolis, and the Robotics Team.<br><br>
+Some of my interests include: retro gaming, lost media, modern/alternative rock, custom keyboards, electronics, and game development. 
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
