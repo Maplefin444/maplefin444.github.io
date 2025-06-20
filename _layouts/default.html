@@ -22,8 +22,22 @@
   {% include scripts.html %}
 
   {%- if site.buymeacoffee.enabled == true -%}
-    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="{{ site.buymeacoffee.username }}" data-description="{{ site.buymeacoffee.description }}" data-message="{{ site.buymeacoffee.message }}" data-color="{{ site.buymeacoffee.color }}" data-position="Right" data-x_margin="16" data-y_margin="16"></script>
+  <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+    data-id="{{ site.buymeacoffee.username }}" data-description="{{ site.buymeacoffee.description }}"
+    data-message="{{ site.buymeacoffee.message }}" data-color="{{ site.buymeacoffee.color }}" data-position="Right"
+    data-x_margin="16" data-y_margin="16"></script>
   {%- endif -%}
+
 </body>
+<div
+  style="position:fixed; z-index:99; display: flex; align-items: center; gap: 15px; background-color: #2a2a2a; padding: 15px 25px; border-radius: 8px; border: 1px solid #444; bottom:0; right:0;">
+  <a href="https://webring.ayanali.net/#https://jamesh.skule.ca.com?nav=prev"
+    style="color: #e0e0e0; text-decoration: none; font-size: 1.5rem;">←</a>
+  <a href="https://webring.ayanali.net/#https://jamesh.skule.ca" target="_blank">
+    <img src="https://webring.ayanali.net/img/icon-dark.svg" alt="SKULE Webring" style="width: 32px; height: 32px;" />
+  </a>
+  <a href="https://webring.ayanali.net/#https://jamesh.skule.ca?nav=next"
+    style="color: #e0e0e0; text-decoration: none; font-size: 1.5rem;">→</a>
+</div>
 
 </html>
